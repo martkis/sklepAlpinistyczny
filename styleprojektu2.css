@@ -1,0 +1,160 @@
+
+body {
+	background-image: url("68370.jpg");
+	background-attachment: fixed;
+	
+}
+img {
+	opacity: 1.0;
+	border: groove black 7px;
+	margin-left: 80px;
+	
+}
+#big_image {
+	border: groove black 8px;
+	opacity: 1.0;
+	margin-left: 570px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 50px;
+	font-style: oblique;
+	font-variant: small-caps; /*robi małe słodkie literki w h2 (small-caps)*/
+	font-family: Brush Script MT,cursive;
+	border: solid grey 4px;
+	border-radius: 8px;
+		
+}
+#h3 {
+	font-size: 25px;
+	font-family: Comic Sans MT,cursive;
+}
+#menu a {
+	background-color: black;
+	border-radius: 10px 10px 0px 0px;
+	padding: 5px 20px;
+	color:white;
+	font-size: 20px;
+	text-decoration: none;
+}
+#menu li {
+    display: inline-block;
+    text-align:center;
+}
+#menu a:hover {
+	color: black;
+	background-color: lightblue;
+	box-shadow: 0px 0px 3px 3px;
+}
+#menu{
+	display: inline-block;
+}
+.center{
+	text-align: center;
+}
+h1{
+	font-size: 25px;
+	font-family: Comic Sans MT,cursive;
+	text-align: center;
+}
+b{
+	font-size: 25px;
+	background-color: lightblue;
+	border:solid grey 4px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.koszyk-zamowienia{
+	background-color: lightblue;
+	font-size: 20px;
+	text-align: center;
+	opacity: 0.8;
+}
+.koszyk-zamowienia a{
+	text-decoration: none;
+	background-color: black;
+	text-decoration: none;
+	padding: 8px 20px;	
+	border-radius: 10px 10px 0px 0px;
+	color:grey;
+}
+.koszyk-zamowienia a:hover{
+	box-shadow:3px 3px 1px 3px maroon inset;
+	color: white;
+}
+.zamowienie-zamowienia {
+	text-align: center;
+	margin-top: 5px;
+	}
+.zamowienie-zamowienia a{
+	background-color: black;
+	text-decoration: none;
+	padding: 8px 20px;	
+	border-radius: 10px 10px 0px 0px;
+	color:grey;
+}
+.zamowienie-zamowienia a:hover{
+	box-shadow:3px 3px 1px 3px maroon inset;
+	color: white;	
+}
+.zamowienie-konkretne{
+	font-size: 20px;
+	text-align: center;
+	color: solid black;
+	background-color: lightblue;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.wylogowywanie{
+	text-align: center;
+	font-size: 20px;
+	font-family: Comic Sans MT,cursive;
+}
+.zamowienie_produkt{
+	margin-left: 40%;
+	margin-top: 20px;
+	font-size: 25px;
+}
+.zamowienie_produkt a{
+	text-decoration: none;
+	background-color: maroon;
+	padding: 4px;
+	color: lightblue;
+	border-radius: 10px;
+}
+.zamowienie_produkt a:hover{
+	background-color:lightblue ;
+	color:maroon ;
+
+}
+i{
+	font-size: 25px;
+	background-color: lightblue;
+	color: maroon;
+}
+.menu_kategorie {
+	background-color: black;
+	display: inline-block;
+	text-align: center;
+	margin-left: 5px;
+	font-size: 20px;
+	padding: 5px 20px;
+	border-radius: 10px 10px 0px 0px;
+}
+.menu_kategorie a{
+	color: maroon;
+	text-decoration: none;
+}
+.menu_kategorie:hover{
+	color: black;
+	background-color: lightblue;
+	box-shadow: 0px 0px 3px 3px;
+}
+.kategoria_produkt a{
+	text-decoration: none;
+	background-color: maroon;
+	padding: 4px;
+	color: lightblue;
+	border-radius: 10px;
+}
